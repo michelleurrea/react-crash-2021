@@ -94,6 +94,7 @@ const App = () => {
           onAdd={() => setShowAddTask(!showAddTask)}
           showAdd={showAddTask}
         />
+        <h1>Hello, my name is Michelle</h1>
         <Routes>
           <Route
             path='/'
